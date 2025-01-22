@@ -1,0 +1,28 @@
+:root {
+	/* base bg */
+	/* Color de fondo principal.  */
+	--color-base00: #272a2e; 
+
+	/* Color de fondo secundario (usualmente para la barra de estado o selecciones). */
+	--color-base01: #393f45; 
+
+	/* Color para elementos de enfoque o resaltado */
+	--color-base02: #a6fa7d; 
+
+	/* Color para texto deshabilitado o comentarios. */
+	--color-base03: #5b6268; 
+
+	/* base font */
+	/* Color de texto principal. */
+	--color-base04: #c6c8c5;  
+
+	/* Color de texto secundario, normalmente utilizado para texto en línea */
+	--color-base05: #f1b900; 
+
+	/* Color utilizado para elementos destacados (como encabezados o código destacado). */
+	--color-base06: #e3ff0d; 
+
+	/* Color de texto para elementos que requieren alta visibilidad (como enlaces). */
+	--color-base07: #ffffff; 
+
+}

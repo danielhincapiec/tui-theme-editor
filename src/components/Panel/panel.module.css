@@ -1,0 +1,13 @@
+.container {
+	border-left: 1px solid rgba(233, 246, 233, 0.4);
+	min-width: 500px;
+	width: 50%;
+	padding: var(--padding-container);
+	background-color: black;
+	color: var(--font-base);
+	font-family: var(--font-family);
+	font-size: var(--font-size);
+	line-height: var(--line-height);
+	overflow: scroll;
+}
+

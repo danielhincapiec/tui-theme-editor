@@ -1,0 +1,31 @@
+	.container {
+		background-color: var(--page-bg);
+		padding: 1.5rem;
+		width: 100%;
+		color: white;
+		width: 100%;
+		color: var(--font-base);
+		font-family: var(--font-family);
+		font-size: var(--font-size);
+		line-height: var(--line-height);
+	}
+
+
+	:root {
+
+	/* semantic color bg */
+	--page-bg: var(--color-base00);
+	--page-bg-01: var(--color-base01);
+
+	/* fonts */
+	--font-base: var(--color-base04);
+	--font-family: "Courier New", Courier, monospace;
+	--font-size: 18px;
+	--line-height: 1.4em;
+
+	/* tabs */
+	--tab-size: 2ch;
+	--tab-color: var(--color-base03);
+
+	--padding-container: 1rem;
+}

@@ -1,0 +1,192 @@
+{
+	"type": [
+		{
+			"key": "base",
+			"class": "base04"
+		},
+		{
+			"key": "string",
+			"class": "base02"
+		},
+		{
+			"key": "function",
+			"class": "base06"
+		},
+		{
+			"key": "comment",
+			"class": "base03"
+		},
+		{
+			"key": "operator",
+			"class": "base05"
+		},
+		{
+			"key": "keyword",
+			"class": "base06"
+		},
+		{
+			"key": "variable",
+			"class": "base06"
+		},
+		{
+			"key": "number",
+			"class": "base05"
+		},
+		{
+			"key": "boolean",
+			"class": "base05"
+		},
+		{
+			"key": "constant",
+			"class": "base06"
+		},
+		{
+			"key": "property",
+			"class": "base04"
+		},
+		{
+			"key": "tag",
+			"class": "base06"
+		},
+		{
+			"key": "selector",
+			"class": "base03"
+		},
+		{
+			"key": "attribute",
+			"class": "base05"
+		},
+		{
+			"key": "attr-value",
+			"class": "base02"
+		},
+		{
+			"key": "char",
+			"class": "base04"
+		},
+		{
+			"key": "builtin",
+			"class": "base06"
+		},
+		{
+			"key": "inserted",
+			"class": "base03"
+		},
+		{
+			"key": "deleted",
+			"class": "base01"
+		},
+		{
+			"key": "punctuation",
+			"class": "base04"
+		},
+		{
+			"key": "class-name",
+			"class": "base06"
+		},
+		{
+			"key": "important",
+			"class": "base07"
+		},
+		{
+			"key": "bold",
+			"class": "base05"
+		},
+		{
+			"key": "italic",
+			"class": "base05"
+		},
+		{
+			"key": "entity",
+			"class": "base04"
+		},
+		{
+			"key": "title",
+			"class": "base07"
+		},
+		{
+			"key": "section",
+			"class": "base06"
+		},
+		{
+			"key": "bullet",
+			"class": "base02"
+		},
+		{
+			"key": "code",
+			"class": "base04"
+		},
+		{
+			"key": "quote",
+			"class": "base03"
+		},
+		{
+			"key": "formula",
+			"class": "base01"
+		},
+		{
+			"key": "link",
+			"class": "base06"
+		},
+		{
+			"key": "selector-id",
+			"class": "base05"
+		},
+		{
+			"key": "selector-class",
+			"class": "base04"
+		},
+		{
+			"key": "regexp",
+			"class": "base01"
+		},
+		{
+			"key": "meta",
+			"class": "base03"
+		},
+		{
+			"key": "symbol",
+			"class": "base06"
+		},
+		{
+			"key": "literal",
+			"class": "base02"
+		},
+		{
+			"key": "template",
+			"class": "base04"
+		},
+		{
+			"key": "addition",
+			"class": "base07"
+		},
+		{
+			"key": "deletion",
+			"class": "base01"
+		},
+		{
+			"key": "plain-text",
+			"class": "base00"
+		},
+		{
+			"key": "doctag",
+			"class": "base02"
+		},
+		{
+			"key": "name",
+			"class": "base06"
+		},
+		{
+			"key": "selector-attr",
+			"class": "base04"
+		},
+		{
+			"key": "selector-pseudo",
+			"class": "base05"
+		},
+		{
+			"key": "value",
+			"class": "base01"
+		}
+	]
+}

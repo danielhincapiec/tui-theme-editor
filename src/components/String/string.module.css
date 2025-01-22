@@ -1,0 +1,32 @@
+.base00 {
+	color: var(--color-base00);
+}
+
+.base01 {
+	color: var(--color-base01);
+}
+
+.base02 {
+	color: var(--color-base02);
+}
+
+.base03 {
+	color: var(--color-base03);
+	font-style: italic;
+}
+
+.base04 {
+	color: var(--color-base04);
+}
+
+.base05 {
+	color: var(--color-base05);
+}
+
+.base06 {
+	color: var(--color-base06);
+}
+
+.base07 {
+	color: var(--color-base07);
+}

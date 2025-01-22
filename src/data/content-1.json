@@ -1,0 +1,442 @@
+{
+	"lines": [
+		{
+			"number": 0,
+			"tabs": 0,
+			"strings": [
+				{
+					"type": "keyword",
+					"value": "local"
+				},
+				{
+					"type": "function",
+					"value": "config"
+				},
+				{
+					"type": "operator",
+					"value": "="
+				},
+				{
+					"type": "keyword",
+					"value": "function"
+				},
+				{
+					"type": "punctuation",
+					"value": "("
+				},
+				{
+					"type": "punctuation",
+					"value": ")"
+				},
+				{
+					"type": "punctuation",
+					"value": "{"
+				}
+			]
+		},
+		{
+			"number": 1,
+			"tabs": 1,
+			"strings": [
+				{
+					"type": "keyword",
+					"value": "local"
+				},
+				{
+					"type": "function",
+					"value": "bridgebones"
+				},
+				{
+					"type": "operator",
+					"value": "="
+				},
+				{
+					"type": "function",
+					"value": "require"
+				},
+				{
+					"type": "punctuation",
+					"value": "("
+				},
+				{
+					"type": "string",
+					"value": "\"bridgebones\""
+				},
+				{
+					"type": "punctuation",
+					"value": ")"
+				}
+			]
+		},
+		{
+			"number": 2,
+			"tabs": 1,
+			"strings": [
+				{
+					"type": "keyword",
+					"value": "local"
+				},
+				{
+					"type": "function",
+					"value": "bg"
+				},
+				{
+					"type": "operator",
+					"value": "="
+				},
+				{
+					"type": "function",
+					"value": "bridgebones.palette.base04"
+				}
+			]
+		},
+		{
+			"number": 3,
+			"tabs": 0,
+			"strings": [
+				{
+					"type": "comment",
+					"value": ""
+				}
+			]
+		},
+		{
+			"number": 3,
+			"tabs": 0,
+			"strings": [
+				{
+					"type": "comment",
+					"value": "-- Configuration options"
+				}
+			]
+		},
+		{
+			"number": 4,
+			"tabs": 0,
+			"strings": [
+				{
+					"type": "keyword",
+					"value": "vim.opt.wrap"
+				},
+				{
+					"type": "operator",
+					"value": "="
+				},
+				{
+					"type": "keyword",
+					"value": "false"
+				}
+			]
+		},
+		{
+			"number": 5,
+			"tabs": 0,
+			"strings": [
+				{
+					"type": "keyword",
+					"value": "vim.opt.sidescrolloff"
+				},
+				{
+					"type": "operator",
+					"value": "="
+				},
+				{
+					"type": "number",
+					"value": "36"
+				}
+			]
+		},
+		{
+			"number": 6,
+			"tabs": 1,
+			"strings": [
+				{
+					"type": "keyword",
+					"value": "local"
+				},
+				{
+					"type": "function",
+					"value": "set_options"
+				},
+				{
+					"type": "operator",
+					"value": "="
+				},
+				{
+					"type": "function",
+					"value": "function"
+				},
+				{
+					"type": "punctuation",
+					"value": "("
+				},
+				{
+					"type": "punctuation",
+					"value": ")"
+				},
+				{
+					"type": "punctuation",
+					"value": "{"
+				}
+			]
+		},
+		{
+			"number": 7,
+			"tabs": 2,
+			"strings": [
+				{
+					"type": "keyword",
+					"value": "vim.opt"
+				},
+				{
+					"type": "operator",
+					"value": "."
+				},
+				{
+					"type": "function",
+					"value": "numberwidth"
+				},
+				{
+					"type": "operator",
+					"value": "="
+				},
+				{
+					"type": "number",
+					"value": "10"
+				}
+			]
+		},
+		{
+			"number": 8,
+			"tabs": 2,
+			"strings": [
+				{
+					"type": "keyword",
+					"value": "vim.opt"
+				},
+				{
+					"type": "operator",
+					"value": "."
+				},
+				{
+					"type": "function",
+					"value": "numberheight"
+				},
+				{
+					"type": "operator",
+					"value": "="
+				},
+				{
+					"type": "number",
+					"value": "20"
+				}
+			]
+		},
+		{
+			"number": 9,
+			"tabs": 1,
+			"strings": [
+				{
+					"type": "keyword",
+					"value": "end"
+				}
+			]
+		},
+		{
+			"number": 10,
+			"tabs": 0,
+			"strings": [
+				{
+					"type": "keyword",
+					"value": "set_options()"
+				}
+			]
+		},
+		{
+			"number": 11,
+			"tabs": 0,
+			"strings": [
+				{
+					"type": "comment",
+					"value": ""
+				}
+			]
+		},
+		{
+			"number": 11,
+			"tabs": 0,
+			"strings": [
+				{
+					"type": "comment",
+					"value": "-- Plugin Setup"
+				}
+			]
+		},
+		{
+			"number": 12,
+			"tabs": 1,
+			"strings": [
+				{
+					"type": "keyword",
+					"value": "local"
+				},
+				{
+					"type": "function",
+					"value": "packer"
+				},
+				{
+					"type": "operator",
+					"value": "="
+				},
+				{
+					"type": "function",
+					"value": "require"
+				},
+				{
+					"type": "punctuation",
+					"value": "("
+				},
+				{
+					"type": "string",
+					"value": "\"packer\""
+				},
+				{
+					"type": "punctuation",
+					"value": ")"
+				}
+			]
+		},
+		{
+			"number": 13,
+			"tabs": 1,
+			"strings": [
+				{
+					"type": "keyword",
+					"value": "packer.startup"
+				},
+				{
+					"type": "operator",
+					"value": "="
+				},
+				{
+					"type": "function",
+					"value": "function"
+				},
+				{
+					"type": "punctuation",
+					"value": "("
+				},
+				{
+					"type": "punctuation",
+					"value": ")"
+				},
+				{
+					"type": "punctuation",
+					"value": "{"
+				}
+			]
+		},
+		{
+			"number": 14,
+			"tabs": 2,
+			"strings": [
+				{
+					"type": "keyword",
+					"value": "use"
+				},
+				{
+					"type": "operator",
+					"value": "="
+				},
+				{
+					"type": "string",
+					"value": "\"nvim-treesitter\""
+				}
+			]
+		},
+		{
+			"number": 15,
+			"tabs": 2,
+			"strings": [
+				{
+					"type": "keyword",
+					"value": "use"
+				},
+				{
+					"type": "operator",
+					"value": "="
+				},
+				{
+					"type": "string",
+					"value": "\"telescope.nvim\""
+				}
+			]
+		},
+		{
+			"number": 16,
+			"tabs": 1,
+			"strings": [
+				{
+					"type": "punctuation",
+					"value": "}"
+				}
+			]
+		},
+		{
+			"number": 17,
+			"tabs": 0,
+			"strings": [
+				{
+					"type": "keyword",
+					"value": "packer.sync()"
+				}
+			]
+		},
+		{
+			"number": 3,
+			"tabs": 0,
+			"strings": [
+				{
+					"type": "comment",
+					"value": ""
+				}
+			]
+		},
+		{
+			"number": 18,
+			"tabs": 0,
+			"strings": [
+				{
+					"type": "comment",
+					"value": "-- Keybindings"
+				}
+			]
+		},
+		{
+			"number": 19,
+			"tabs": 1,
+			"strings": [
+				{
+					"type": "keyword",
+					"value": "vim.api.nvim_set_keymap"
+				},
+				{
+					"type": "operator",
+					"value": "="
+				},
+				{
+					"type": "string",
+					"value": "\"<leader>ff\""
+				},
+				{
+					"type": "operator",
+					"value": ","
+				},
+				{
+					"type": "string",
+					"value": "\"Telescope find_files\""
+				}
+			]
+		}
+	]
+}
