@@ -1,10 +1,10 @@
-[] todo en ingles
-[] color picker
-[] color picker en okhcl
-[] editar en una pestaña las asociaciones de color y de base
-[] dropdown de temas
-[] cmabiar el tono global como si fuera photoshop
+- To-do list in English
+- Color picker
+- Color picker in OKHCL
+- Edit color and base associations in a single tab
+- Dropdown for themes
+- Change the global tone like in Photoshop
 
-[] editar el contenido
-[] login con autentificacion
-[] guardar en DB los estilos
+- Edit content
+- Login with authentication
+- Save styles in the database
